@@ -1,0 +1,15 @@
+a{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    color: rgb(112, 112, 112);
+}
+
+.redondear{
+    border-top-right-radius: 60px;
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+}
